@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ctsstc/test-cli#readme",
   "dependencies": {
-    "zx": "^7.0.8"
+    "zx": "^7.0.7"
   }
 }
