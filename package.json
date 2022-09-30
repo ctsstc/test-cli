@@ -1,0 +1,26 @@
+{
+  "name": "test-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cognitoHash": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctsstc/test-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctsstc/test-cli/issues"
+  },
+  "homepage": "https://github.com/ctsstc/test-cli#readme",
+  "dependencies": {
+    "zx": "^7.0.8"
+  }
+}
