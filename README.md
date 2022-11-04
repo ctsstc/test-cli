@@ -32,8 +32,6 @@ The entrypoint name must match the github repository name.
 - Replace with your username
 - Replace with your repository name
 
-````bash
-
 ```shell
 npx github:ctsstc/test-cli
 ````
